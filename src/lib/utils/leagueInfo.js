@@ -19,7 +19,6 @@ If you're having trouble, reference the Training Wheels' Manager Section
 https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding-managers-and-changing-the-homepage-text
 */
 
-
 // To omit an optional field, set it's value to null
 
 export const managers = [
@@ -89,7 +88,7 @@ export const managers = [
     //   "tradingScale": 10, // 1 - 10
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     // },
-  ]
+//  ]
   
   
   /*   !!  !!  IMPORTANT  !!  !! */
