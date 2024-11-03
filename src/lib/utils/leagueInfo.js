@@ -7,10 +7,10 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Welcome to the Super League page!</p>
-  <p>This page gives extra details and context to the league and its history.</p>
-  <p>Created and run by Dave.</p>
-`; // <-- Closing backtick and semicolon
+  <p>A 10-team dynasty half-ppr league.</p>
+  <p>This is the website for that league.</p>
+  <p>Dave is obviously the coolest dude in the league.</p>
+`;
 
 /*   STEP 3   */
 /*
