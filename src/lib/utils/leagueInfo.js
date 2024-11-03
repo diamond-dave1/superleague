@@ -10,7 +10,7 @@ export const homepageText = `
   <p>Welcome to the Super League page!</p>
   <p>This page gives extra details and context to the league and its history.</p>
   <p>Created and run by Dave.</p>
-`; // <- Missing closing backtick added here
+`; // <-- Closing backtick and semicolon
 
 /*   STEP 3   */
 /*
