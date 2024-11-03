@@ -10,6 +10,7 @@ export const homepageText = `
   <p>Welcome to the Super League page!</p>
   <p>This page gives extra details and context to the league and its history.</p>
   <p>Created and run by Dave.</p>
+`; // <- Missing closing backtick added here
 
 /*   STEP 3   */
 /*
@@ -17,6 +18,7 @@ export const homepageText = `
 If you're having trouble, reference the Training Wheels' Manager Section
 https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding-managers-and-changing-the-homepage-text
 */
+
 
 // To omit an optional field, set it's value to null
 
